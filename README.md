@@ -1,0 +1,2 @@
+# EzChecker
+Discord Token Checker
