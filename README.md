@@ -9,7 +9,6 @@
 
 ## Usage
 - Run The Following Command To Start The Account Gen
-    - Enter Your Tokens In A Text File
     - Make A File For Your Tokens
     - Make A File For Your Output
     - python3 Checker.py
