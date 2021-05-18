@@ -12,8 +12,8 @@
     - Enter Your Tokens In A Text File
     - Make A File For Your Tokens
     - Make A File For Your Output
-    - Enter The Name Of Both Files When Indicated
     - python3 Checker.py
+    - Enter The Name Of Both Files When Indicated
 
 ## Todo
 - Add An Option To Run With Proxies
